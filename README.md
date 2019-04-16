@@ -1,5 +1,9 @@
 # Accelerate DH Education
 
+### Monday, July 8th 2019
+### 9am - 1pm
+### Utrecht (location TBA)
+
 ## Description
 
 The workshop offers an exceptional platform for communication between DH practitioners, specialists in educational sciences and digital innovation strategists. 
