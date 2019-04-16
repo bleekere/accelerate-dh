@@ -23,7 +23,7 @@ How can we move towards more cooperative and evidence-based approaches to teachi
 
 We welcome 200-300 word proposals from anyone involved or interested in the creation and usage of educational resources in DH.
 
-Submissions can be sent via the [online submission form](https://docs.google.com/forms/d/e/1FAIpQLSehm6IWZ3LoXbc6ZLhlAGxq-0C84sSahOXIod5khexuF4dWxg/viewform?usp=sf_link). The deadline for submission is Monday 6th May and applicants will be notified of acceptance by the end of May.
+Submissions can be sent via the [online submission form](https://docs.google.com/forms/d/e/1FAIpQLSehm6IWZ3LoXbc6ZLhlAGxq-0C84sSahOXIod5khexuF4dWxg/viewform?usp=sf_link). The deadline for submission is **Monday 6th May** and applicants will be notified of acceptance by the end of May.
 
 ## Organizers
 (alphabetical)
