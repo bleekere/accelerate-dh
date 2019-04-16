@@ -1,12 +1,10 @@
 # Accelerate DH Education
 
-Website for the DH2019 workshop "Accelerating DH Education”.
-
 ## Description
 
 The workshop offers an exceptional platform for communication between DH practitioners, specialists in educational sciences and digital innovation strategists. 
 
-Among its organisers are people connected to several Dutch universities and research institutions alongside nationwide initiatives SURF (the collaborative ICT organisation for Dutch education and research), the Netherlands Association of Universities of Applied Sciences (VH) and the the Association of Universities in the Netherlands (VSNU) that together in 2018 initiated the national ‘Acceleration plan educational innovation with ICT’. 
+Among its organisers are people connected to several Dutch universities and research institutions alongside nationwide initiatives [SURF](https://surf.nl) (the collaborative ICT organisation for Dutch education and research), the Netherlands Association of Universities of Applied Sciences ([VH](https://www.vereniginghogescholen.nl/english)) and the the Association of Universities in the Netherlands ([VSNU](https://vsnu.nl/en_GB/)) that together in 2018 initiated the national plan "[Acceleration plan educational innovation with ICT](https://www.thedigitalsociety.info/acceleration-plan-for-innovation-in-education-with-ict/)". 
 
 This combination of DH experts and educational specialists presents a unique opportunity to consider a shared strategic agenda for innovation in DH education. 
 
@@ -26,7 +24,7 @@ We welcome 200-300 word proposals from anyone involved or interested in the crea
 Submissions can be sent via the [online submission form](https://docs.google.com/forms/d/e/1FAIpQLSehm6IWZ3LoXbc6ZLhlAGxq-0C84sSahOXIod5khexuF4dWxg/viewform?usp=sf_link). The deadline for submission is **Monday 6th May** and applicants will be notified of acceptance by the end of May.
 
 ## Organizers
-(alphabetical)
+(in alphabetical order)
 - Elli Bleeker, Royal Netherlands Academy of Arts Sciences
 - Johanna de Groot, SURF
 - Aodhan Kelly, Open University, Netherlands
