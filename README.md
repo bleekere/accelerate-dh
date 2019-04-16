@@ -1,4 +1,4 @@
-# Accelerate DH Education
+# Accelerating DH Education
 
 ### Practical information
 Monday, July 8th 2019  
