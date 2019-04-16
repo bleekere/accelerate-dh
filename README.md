@@ -15,11 +15,11 @@ This combination of DH experts and educational specialists presents a unique opp
 
 The workshop is organized primarily around two strands of discussion: 
 
-1. Open Education
+1. Open Education  
 Open Education can be defined in multiple ways, we will zoom in on the aspects that could be of relevance to Digital Humanities education, and to map and imagine its implications for accessible, inclusive and sustainable approaches to its delivery. 
 
-2. Shared educational agendas and initiatives
-How can we move towards more cooperative and evidence-based approaches to teaching and training in DH across the community? What are the key desiderata for educational innovation in DH? This strand will feature both national agendas and international initiatives including the #dariahTeach platform.
+2. Shared educational agendas and initiatives  
+How can we move towards more cooperative and evidence-based approaches to teaching and training in DH across the community? What are the key desiderata for educational innovation in DH? This strand will feature both national agendas and international initiatives including the [#dariahTeach](https://teach.dariah.eu/) platform.
 
 
 ## Submission
