@@ -1,8 +1,8 @@
 # Accelerate DH Education
 
 ### Practical information
-Monday, July 8th 2019
-9am - 1pm
+Monday, July 8th 2019  
+9am - 1pm  
 Utrecht, Tivoli building (room TBA)
 
 ## Description
