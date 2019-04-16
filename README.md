@@ -15,12 +15,17 @@ Open Education can be defined in multiple ways, we will zoom in on the aspects t
 How can we move towards more cooperative and evidence-based approaches to teaching and training in DH across the community? What are the key desiderata for educational innovation in DH? This strand will feature both national agendas and international initiatives including the #dariahTeach platform.
 
 
-## Program
-
-
-
 ## Submission
 
 We welcome 200-300 word proposals from anyone involved or interested in the creation and usage of educational resources in DH.
 
-Submissions can be sent via the online submission form. The deadline for submission is Monday 6th May and applicants will be notified of acceptance by the end of May.
+Submissions can be sent via the (online submission form)[https://docs.google.com/forms/d/e/1FAIpQLSehm6IWZ3LoXbc6ZLhlAGxq-0C84sSahOXIod5khexuF4dWxg/viewform?usp=sf_link]. The deadline for submission is Monday 6th May and applicants will be notified of acceptance by the end of May.
+
+## Organizers
+(alphabetical)
+- Elli Bleeker, Royal Netherlands Academy of Arts Sciences
+- Johanna de Groot, SURF
+- Aodhan Kelly, Open University, Netherlands
+- Martine Schophuizen, Open University, Netherlands
+- Sally Wyatt, Maastricht University
+
