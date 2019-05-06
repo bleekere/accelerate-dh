@@ -1,6 +1,9 @@
-# Accelerate DH Education
+# Accelerating DH Education
 
-Website for the DH2019 workshop "Accelerating DH Education”.
+### Practical information
+Monday, July 8th 2019  
+9am - 1pm  
+Utrecht, Tivoli building (room TBA)
 
 ## Description
 
@@ -8,7 +11,6 @@ The workshop offers a platform for communication between DH practitioners, speci
 
 ## Format
 This workshop will take place over a half-day on the morning of Monday 8 July and will include several sessions devoted to a theme or topic relevant to DH pedagogy and education. Each session will begin with presentations followed by discussions. The final session will be a summative discussion with a focus on future strategies. Participants are invited to submit in advance a 5 to 10 minute lightning talk relating to one of the topics described below, or propose another topic in an area in which they have experience or expertise:
-
 
 1. **DH Pedagogy in practice**  
 We take stock of existing types of DH educational resources, course materials, and pedagogical approaches. This entails, among others, the question of how DH practitioners develop their skill sets and on the resources that are available to them. Furthermore, how can we identify the strengths and weaknesses of the current status quo, and evaluate the effectiveness of teaching?
@@ -19,9 +21,18 @@ Open Education (OE) can be defined in multiple ways; we zoom in on the aspects t
 2. **Shared educational agendas and initiatives**  
 How can we move towards more cooperative and evidence-based approaches to teaching and training in DH across the community? What are the key desiderata for educational innovation in DH? How can national agendas and international initiatives best be employed?
 
-
 ## Submission
 
 We welcome 200-300 word proposals from anyone involved or interested in the creation and usage of educational resources in DH.
 
+
 Submissions can be sent via the [online submission](https://docs.google.com/forms/d/e/1FAIpQLSehm6IWZ3LoXbc6ZLhlAGxq-0C84sSahOXIod5khexuF4dWxg/viewform?usp=sf_link) form. The deadline for submission is Monday 15th May and applicants will be notified of acceptance by the end of May.
+
+## Organizers
+(in alphabetical order)
+
+- Elli Bleeker, Royal Netherlands Academy of Arts Sciences
+- Johanna de Groot, SURF
+- Aodhan Kelly, Open University, Netherlands
+- Martine Schophuizen, Open University, Netherlands
+- Sally Wyatt, Maastricht University
