@@ -1,9 +1,10 @@
 # Accelerating DH Education
 
-### Practical information
-Monday, July 8th 2019  
-9am - 1pm  
-Utrecht, Tivoli building (room TBA)
+## Practical information
+**Date**: Monday, July 8th 2019  
+**Time**: 9h00 - 13h00  
+**Building**: Tivoli Vredenburg, Utrecht  
+**Room**: Black Box
 
 ## Description
 
@@ -21,12 +22,48 @@ Open Education (OE) can be defined in multiple ways; we zoom in on the aspects t
 2. **Shared educational agendas and initiatives**  
 How can we move towards more cooperative and evidence-based approaches to teaching and training in DH across the community? What are the key desiderata for educational innovation in DH? How can national agendas and international initiatives best be employed?
 
-## Submission
+## Schedule
 
-We welcome 200-300 word proposals from anyone involved or interested in the creation and usage of educational resources in DH.
+#### 9h00 - 9h30: Opening and introduction 
+
+#### 9h30 - 10h30: Strand 1 “DH Pedagogy in Practice”
+Chair: Elli Bleeker
 
 
-Submissions can be sent via the [online submission](https://docs.google.com/forms/d/e/1FAIpQLSehm6IWZ3LoXbc6ZLhlAGxq-0C84sSahOXIod5khexuF4dWxg/viewform?usp=sf_link) form. The deadline for submission is Monday 15th May and applicants will be notified of acceptance by the end of May.
+Presenter | Topic | 
+---- | ---- | ---- 
+Carlos Martinez-Ortiz, *Netherlands eScience center* | Carpentries teaching and training in DH
+Victoria Garnett, *Trinity College Dublin* |  The PARTHENOS Training Suite approach
+ Anna-Maria Sichani, *University of Sussex* | Three Challenges in Developing Open Multilingual DH Educational Resources: The Case of The Programming Historian
+Plenary  | General discussion; reflection
+
+#### 10h30 - 10h45: Coffee break
+
+#### 10h45 - 11h45: Strand 2 “Open Education”
+Chair: Aodhán Kelly
+
+Presenter | Topic | 
+---- | ---- | ---- 
+Robert Schuwer, *Fontys* | OER in the Netherlands, an overview |
+Martine Schophuizen, *Open Universiteit* | Open Education and the SOONER project
+Susan Schreibman, Costas Papadopoulos & Marianne Ping Huang, *Maastricht University and Aarhus University* | #dariahTeach as an Open Educational Resource Where DH Meets Maker Culture and Design Thinking |
+Ellen Leenarts, *DANS* | Training in the European Open Science Cloud
+Plenary | General discussion; reflection
+
+#### 11h45 - 12h00: Break
+
+#### 12h00 - 13h00: Strand 3 “Shared educational agendas and initiatives”
+Chair: Sally Wyatt
+
+Presenter | Topic |
+---- | ---- | ---- 
+Johanna de Groot, *SURF* | Acceleration plan: Educational innovation with ICT
+Deborah Thorpe, *DARIAH-EU* | Creating synergies, opportunities, and inclusiveness in DARIAH-EU training and education
+Stefania Scagliola, *Centre for Contemporary and Digital History Luxembourg*  | Manifesto for integrating Digital Humanities in the curriculum
+Plenary | General discussion; reflection
+
+
+#### 13h00: Closing remarks
 
 ## Organizers
 (in alphabetical order)
