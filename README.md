@@ -34,7 +34,7 @@ Presenter | Topic |
 ---- | ---- | ---- 
 Carlos Martinez-Ortiz, *Netherlands eScience center* | Carpentries teaching and training in DH
 Victoria Garnett, *Trinity College Dublin* |  The PARTHENOS Training Suite approach
- Anna-Maria Sichani, *University of Sussex* | Three Challenges in Developing Open Multilingual DH Educational Resources: The Case of The Programming Historian
+ Anna-Maria Sichani, *University of Sussex*; Antonio Rojas Castro, *BBAW*; Sofia Papastamkou, *IRHiS* | Three Challenges in Developing Open Multilingual DH Educational Resources: The Case of The Programming Historian
 Plenary  | General discussion; reflection
 
 #### 10h30 - 10h45: Coffee break
@@ -46,7 +46,7 @@ Presenter | Topic |
 ---- | ---- | ---- 
 Robert Schuwer, *Fontys* | OER in the Netherlands, an overview |
 Martine Schophuizen, *Open Universiteit* | Open Education and the SOONER project
-Susan Schreibman, Costas Papadopoulos & Marianne Ping Huang, *Maastricht University and Aarhus University* | #dariahTeach as an Open Educational Resource Where DH Meets Maker Culture and Design Thinking |
+Susan Schreibman and Costas Papadopoulos, *Maastricht University*; Marianne Ping Huang, *Aarhus University* | #dariahTeach as an Open Educational Resource Where DH Meets Maker Culture and Design Thinking |
 Ellen Leenarts, *DANS* | Training in the European Open Science Cloud
 Plenary | General discussion; reflection
 
